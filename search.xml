@@ -4,6 +4,31 @@
   
     
     <entry>
+      <title>母乳喂养vs奶粉喂养</title>
+      <link href="posts/babybreed/"/>
+      <url>posts/babybreed/</url>
+      
+        <content type="html"><![CDATA[<ul><li>这几天网上冲浪，在xhs看到一些新手妈妈的发言，一次又一次的受到震撼，妈妈真的为了养育自己的小孩而付出了好多。</li><li>然后就和朋友就母乳喂养好还是奶粉喂养好展开了讨论</li><li>最开始单纯是在愤怒输出母亲为了小孩做了多么大的牺牲，后来为了让自己的观点更站得住脚，就开始了google scholar的过程</li></ul><h1 id="结论"><a href="#结论" class="headerlink" title="结论"></a>结论</h1><ul><li>自然条件下，母乳可以帮助婴儿建立肠道菌群，促进免疫力发展</li><li>但如果婴儿有（专业的）配方奶粉，可以帮助早产儿、心脏不太好的婴儿成长</li><li>婴幼儿吮吸动作（据说）可以促进母体恢复，但最终应以哺育着想法为主（这条是我的想法）</li><li>配方奶粉可以避免母婴类疾病传播</li><li>总的来说母乳喂养和配方奶粉喂养的小孩间差距很细微</li><li>6个月之前的小孩，一般建议母乳喂养</li></ul><div class="row">    <embed src="20230413_母乳喂养vs奶粉喂养.pdf" width="100%" height="550" type="application/pdf"></div>]]></content>
+      
+      
+      <categories>
+          
+          <category> 家庭生活 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 身体健康 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>金钱与我</title>
       <link href="posts/money-and-me/"/>
       <url>posts/money-and-me/</url>
@@ -196,9 +221,9 @@
       
         <tags>
             
-            <tag> synology </tag>
-            
             <tag> 软件 </tag>
+            
+            <tag> synology </tag>
             
         </tags>
       
@@ -225,11 +250,11 @@
       
         <tags>
             
+            <tag> synology </tag>
+            
             <tag> 服务器 </tag>
             
             <tag> docker </tag>
-            
-            <tag> synology </tag>
             
         </tags>
       
@@ -300,7 +325,7 @@
       <link href="posts/Website-Diary/"/>
       <url>posts/Website-Diary/</url>
       
-        <content type="html"><![CDATA[<h1 id="2021"><a href="#2021" class="headerlink" title="2021"></a>2021</h1><h2 id="202108"><a href="#202108" class="headerlink" title="202108"></a>202108</h2><ul><li><strong>20210816</strong><ul><li>终于把博客给重新整理了，突然用明白picgo了，太香了！</li></ul></li></ul><h2 id="202105"><a href="#202105" class="headerlink" title="202105"></a>202105</h2><ul><li><strong>20210501</strong><ul><li>增加了disqusjs的评论方式</li><li>bibi测试-凉，改天再试试</li></ul></li></ul><h2 id="202104"><a href="#202104" class="headerlink" title="202104"></a>202104</h2><ul><li><p><strong>20210418</strong></p><ul><li>更新了部分黑犬札记的内容，语法错误过段时间再改吧。。。</li></ul></li><li><p><strong>20210411</strong></p><ul><li>文章摘要更正</li><li>看剧模块图源更正（感觉自建图床用在这个上面有点废了，而且数据库生成三版本图片真的令人头秃）</li><li>推送旧文+webp图片</li><li>美化页面标题图标及分割线</li></ul></li><li><p><strong>20210404</strong></p><ul><li>原域名重新利用，进行了解释性跳转</li><li>更新了文章原有永久链接名</li></ul></li><li><p><strong>20210403</strong></p><ul><li>新增导航页</li></ul></li></ul><h2 id="202103"><a href="#202103" class="headerlink" title="202103"></a>202103</h2><ul><li><p><strong>20210329</strong></p><ul><li>公告栏添加超链接图片</li></ul></li><li><p><strong>20210328</strong></p><ul><li>设计logo，制作水印（监考时候过于无聊突然想出来的）</li><li>修复图床链接，切换图床地址</li><li>补充站长检索</li><li>补充打赏（好像失败了）</li><li>补充“关于我”栏目</li></ul></li></ul><h2 id="202102"><a href="#202102" class="headerlink" title="202102"></a>202102</h2><ul><li><strong>20210228</strong><ul><li>安装hexo</li></ul></li><li><strong>20210220</strong><ul><li>搬迁wp，图片一直报错</li></ul></li></ul><hr><h1 id="2020"><a href="#2020" class="headerlink" title="2020"></a>2020</h1><h2 id="202004"><a href="#202004" class="headerlink" title="202004"></a>202004</h2><ul><li><strong>202004024</strong><ul><li>文章调整完毕</li></ul></li></ul><h2 id="202003"><a href="#202003" class="headerlink" title="202003"></a>202003</h2><ul><li><strong>20200308</strong><ul><li>建立wordpress架构的blog</li></ul></li><li><strong>20200303</strong><ul><li>购买服务器域名等等，可能主要原因是疫情太无聊了</li></ul></li></ul>]]></content>
+        <content type="html"><![CDATA[<h1 id="2023"><a href="#2023" class="headerlink" title="2023"></a>2023</h1><h2 id="202305"><a href="#202305" class="headerlink" title="202305"></a>202305</h2><ul><li>把<a href="https://noemo.ijann.com/">心理站点</a>完全整合并且理顺了</li></ul><h1 id="2021"><a href="#2021" class="headerlink" title="2021"></a>2021</h1><h2 id="202108"><a href="#202108" class="headerlink" title="202108"></a>202108</h2><ul><li><strong>20210816</strong><ul><li>终于把博客给重新整理了，突然用明白picgo了，太香了！</li></ul></li></ul><h2 id="202105"><a href="#202105" class="headerlink" title="202105"></a>202105</h2><ul><li><strong>20210501</strong><ul><li>增加了disqusjs的评论方式</li><li>bibi测试-凉，改天再试试</li></ul></li></ul><h2 id="202104"><a href="#202104" class="headerlink" title="202104"></a>202104</h2><ul><li><p><strong>20210418</strong></p><ul><li>更新了部分黑犬札记的内容，语法错误过段时间再改吧。。。</li></ul></li><li><p><strong>20210411</strong></p><ul><li>文章摘要更正</li><li>看剧模块图源更正（感觉自建图床用在这个上面有点废了，而且数据库生成三版本图片真的令人头秃）</li><li>推送旧文+webp图片</li><li>美化页面标题图标及分割线</li></ul></li><li><p><strong>20210404</strong></p><ul><li>原域名重新利用，进行了解释性跳转</li><li>更新了文章原有永久链接名</li></ul></li><li><p><strong>20210403</strong></p><ul><li>新增导航页</li></ul></li></ul><h2 id="202103"><a href="#202103" class="headerlink" title="202103"></a>202103</h2><ul><li><p><strong>20210329</strong></p><ul><li>公告栏添加超链接图片</li></ul></li><li><p><strong>20210328</strong></p><ul><li>设计logo，制作水印（监考时候过于无聊突然想出来的）</li><li>修复图床链接，切换图床地址</li><li>补充站长检索</li><li>补充打赏（好像失败了）</li><li>补充“关于我”栏目</li></ul></li></ul><h2 id="202102"><a href="#202102" class="headerlink" title="202102"></a>202102</h2><ul><li><strong>20210228</strong><ul><li>安装hexo</li></ul></li><li><strong>20210220</strong><ul><li>搬迁wp，图片一直报错</li></ul></li></ul><hr><h1 id="2020"><a href="#2020" class="headerlink" title="2020"></a>2020</h1><h2 id="202004"><a href="#202004" class="headerlink" title="202004"></a>202004</h2><ul><li><strong>202004024</strong><ul><li>文章调整完毕</li></ul></li></ul><h2 id="202003"><a href="#202003" class="headerlink" title="202003"></a>202003</h2><ul><li><strong>20200308</strong><ul><li>建立wordpress架构的blog</li></ul></li><li><strong>20200303</strong><ul><li>购买服务器域名等等，可能主要原因是疫情太无聊了</li></ul></li></ul>]]></content>
       
       
       <categories>
