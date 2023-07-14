@@ -4,6 +4,33 @@
   
     
     <entry>
+      <title>巧用shortcuts，日历自动记录软件使用时间！</title>
+      <link href="posts/shortcuts-calendar/"/>
+      <url>posts/shortcuts-calendar/</url>
+      
+        <content type="html"><![CDATA[<ul><li>苹果系统我最热爱的一个功能就是日历了，作为一个重度拖延症及热爱自我检讨人员，日历可以很好的辅助我量化时间。</li><li>过去很长时间都是依靠提前固定安排/事后追溯的方法完善日程记录，有时候确实能够有效量化，大部分时候都会完全忘记自己在干嘛（记忆力超差人群的问题）</li><li>有一天网上冲浪看到了自动化给对象报备打游戏的功能，本来看热闹的，但突然想到可以用这种方法来自动记录日历。（我可真是个小天才🤥）</li><li>经过一周的测试，有一些小问题，但总体使用还算顺滑，并且很好的帮助了自己量化时间。</li></ul><h2 id="首先添加这三个快捷指令"><a href="#首先添加这三个快捷指令" class="headerlink" title="首先添加这三个快捷指令"></a>首先添加这三个快捷指令</h2><ul><li><a href="https://www.icloud.com/shortcuts/e77b4a7feefa4c73a7ee87f5891378d6">自动创建日历日程快捷指令</a></li><li><a href="https://www.icloud.com/shortcuts/ba713c1072bc4466a3cc0d40af343655">自动结束日历日程快捷指令</a></li><li><a href="https://www.icloud.com/shortcuts/cfaff9d800854e2b87bb8cdc6bcf4bf5">自动删除冗余日历日程快捷指令</a></li></ul><h2 id="开启软件时自动创建日历日程"><a href="#开启软件时自动创建日历日程" class="headerlink" title="开启软件时自动创建日历日程"></a>开启软件时自动创建日历日程</h2><ul><li><strong>我把具体的操作步骤做成了shortcut，在使用时候只需要更改一些日历细节就可以了。</strong></li><li>第一步打开手机的shortcuts（快捷指令）</li><li><img src="https://cdn.jsdelivr.net/gh/janshirley/jan_pix@main/2023/07/IMG_4705.jpg"></li><li>点击底部中间的按钮，创建个人自动化</li><li><img src="https://cdn.jsdelivr.net/gh/janshirley/jan_pix@main/2023/07/IMG_4706.jpg"></li><li>按照个人需求，我选择的是打开app时</li><li><img src="https://cdn.jsdelivr.net/gh/janshirley/jan_pix@main/2023/07/IMG_4707.jpg"></li><li>选择需要记录的app，比如我会把刷小红书、微信聊天记做网上冲浪（可以同时选择多个app）</li><li><img src="https://cdn.jsdelivr.net/gh/janshirley/jan_pix@main/2023/07/IMG_4708.jpg"></li><li>选好app后进入下一步</li><li><img src="https://cdn.jsdelivr.net/gh/janshirley/jan_pix@main/2023/07/IMG_4709.jpg"></li><li>添加快捷指令操作中选择app，并找到快捷指令</li><li><img src="https://cdn.jsdelivr.net/gh/janshirley/jan_pix@main/2023/07/IMG_4710.jpg"></li><li>选择运行快捷指令</li><li><img src="https://cdn.jsdelivr.net/gh/janshirley/jan_pix@main/2023/07/IMG_4711.jpg"></li><li>选择<a href="https://www.icloud.com/shortcuts/e77b4a7feefa4c73a7ee87f5891378d6">自动创建日历日程快捷指令</a>，可能有一些小问题，但不影响使用。</li><li><strong>如果大家有改进建议也可以联系我</strong></li><li><img src="https://cdn.jsdelivr.net/gh/janshirley/jan_pix@main/2023/07/IMG_4713.jpg"></li><li>最后选择运行时不询问就可以了</li><li><img src="https://cdn.jsdelivr.net/gh/janshirley/jan_pix@main/2023/07/IMG_4714.jpg"></li></ul><h2 id="关闭软件后自动结束日历日程"><a href="#关闭软件后自动结束日历日程" class="headerlink" title="关闭软件后自动结束日历日程"></a>关闭软件后自动结束日历日程</h2><ul><li>方法和上面类似，在选择快捷指令时选择<a href="https://www.icloud.com/shortcuts/ba713c1072bc4466a3cc0d40af343655">自动结束日历日程快捷指令</a>就可以了</li></ul><h2 id="删除冗余日程"><a href="#删除冗余日程" class="headerlink" title="删除冗余日程"></a>删除冗余日程</h2><ul><li>有时候我们可能只是简单回复一条信息，并不会过长时间在一个软件中停留，所以自动生成的日历可能会让日历表过于碎片化。</li><li><img src="https://cdn.jsdelivr.net/gh/janshirley/jan_pix@main/2023/07/IMG_4640.PNG"></li><li>所以我设定的规则是使用<a href="https://www.icloud.com/shortcuts/cfaff9d800854e2b87bb8cdc6bcf4bf5">自动删除冗余日历日程快捷指令</a>删除3min内的日程。</li><li>可以使用创建自动化的方式定时进行这个工作，我目前是手动进行的，并且会手动优化一些时间条。</li></ul><h2 id="成品"><a href="#成品" class="headerlink" title="成品"></a>成品</h2><ul><li>隐藏了自己多个日历以后的显示，看得出来真的很爱玩手机了😓，以后一定改正。</li><li><img src="https://cdn.jsdelivr.net/gh/janshirley/jan_pix@main/2023/07/%E6%88%AA%E5%B1%8F2023-07-14%2020.05.12.png"></li></ul>]]></content>
+      
+      
+      <categories>
+          
+          <category> 学习笔记 </category>
+          
+          <category> 效率 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> IOS, 学习笔记 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>母乳喂养vs奶粉喂养</title>
       <link href="posts/babybreed/"/>
       <url>posts/babybreed/</url>
@@ -221,9 +248,9 @@
       
         <tags>
             
-            <tag> synology </tag>
-            
             <tag> 软件 </tag>
+            
+            <tag> synology </tag>
             
         </tags>
       
@@ -250,11 +277,11 @@
       
         <tags>
             
+            <tag> synology </tag>
+            
             <tag> 服务器 </tag>
             
             <tag> docker </tag>
-            
-            <tag> synology </tag>
             
         </tags>
       
