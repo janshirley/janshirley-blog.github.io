@@ -248,9 +248,9 @@
       
         <tags>
             
-            <tag> 软件 </tag>
-            
             <tag> synology </tag>
+            
+            <tag> 软件 </tag>
             
         </tags>
       
@@ -277,11 +277,11 @@
       
         <tags>
             
-            <tag> synology </tag>
-            
             <tag> 服务器 </tag>
             
             <tag> docker </tag>
+            
+            <tag> synology </tag>
             
         </tags>
       
